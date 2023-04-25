@@ -1,2 +1,2 @@
-# mysql-database
+# MySQL
 Meus estudos com o MySQL
